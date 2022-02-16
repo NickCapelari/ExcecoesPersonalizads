@@ -1,0 +1,15 @@
+D:\Curso.Net\ExcecoesPesonalisadas\ExcecoesPesonalisadas\bin\Debug\net6.0\ExcecoesPesonalisadas.exe
+D:\Curso.Net\ExcecoesPesonalisadas\ExcecoesPesonalisadas\bin\Debug\net6.0\ExcecoesPesonalisadas.deps.json
+D:\Curso.Net\ExcecoesPesonalisadas\ExcecoesPesonalisadas\bin\Debug\net6.0\ExcecoesPesonalisadas.runtimeconfig.json
+D:\Curso.Net\ExcecoesPesonalisadas\ExcecoesPesonalisadas\bin\Debug\net6.0\ExcecoesPesonalisadas.dll
+D:\Curso.Net\ExcecoesPesonalisadas\ExcecoesPesonalisadas\bin\Debug\net6.0\ref\ExcecoesPesonalisadas.dll
+D:\Curso.Net\ExcecoesPesonalisadas\ExcecoesPesonalisadas\bin\Debug\net6.0\ExcecoesPesonalisadas.pdb
+D:\Curso.Net\ExcecoesPesonalisadas\ExcecoesPesonalisadas\obj\Debug\net6.0\ExcecoesPesonalisadas.csproj.AssemblyReference.cache
+D:\Curso.Net\ExcecoesPesonalisadas\ExcecoesPesonalisadas\obj\Debug\net6.0\ExcecoesPesonalisadas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso.Net\ExcecoesPesonalisadas\ExcecoesPesonalisadas\obj\Debug\net6.0\ExcecoesPesonalisadas.AssemblyInfoInputs.cache
+D:\Curso.Net\ExcecoesPesonalisadas\ExcecoesPesonalisadas\obj\Debug\net6.0\ExcecoesPesonalisadas.AssemblyInfo.cs
+D:\Curso.Net\ExcecoesPesonalisadas\ExcecoesPesonalisadas\obj\Debug\net6.0\ExcecoesPesonalisadas.csproj.CoreCompileInputs.cache
+D:\Curso.Net\ExcecoesPesonalisadas\ExcecoesPesonalisadas\obj\Debug\net6.0\ExcecoesPesonalisadas.dll
+D:\Curso.Net\ExcecoesPesonalisadas\ExcecoesPesonalisadas\obj\Debug\net6.0\ref\ExcecoesPesonalisadas.dll
+D:\Curso.Net\ExcecoesPesonalisadas\ExcecoesPesonalisadas\obj\Debug\net6.0\ExcecoesPesonalisadas.pdb
+D:\Curso.Net\ExcecoesPesonalisadas\ExcecoesPesonalisadas\obj\Debug\net6.0\ExcecoesPesonalisadas.genruntimeconfig.cache
