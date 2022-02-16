@@ -24,13 +24,9 @@ Reservation reservation = new Reservation(number, checkIn, checkOut);
     Console.Write("Check-out Date (dd/MM/yyyy): ");
     checkOut = DateTime.Parse(Console.ReadLine());
 
-    DateTime now = DateTime.Now;
-    if (now < checkIn || checkOut < now) {
-        Console.WriteLine("Error in reservation: Reservation Dates for update must be future datas");
-    }
-    else if (checkOut <= checkIn)
-    {
-        Console.WriteLine("Erro na reserva Check Out maior que Check In");
+    string error = reservation.UpdateDates(checkIn, checkOut);
+    if (error != null) {
+        Console.WriteLine(error);
     }
     else
     {
