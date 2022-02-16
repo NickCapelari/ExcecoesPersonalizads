@@ -32,4 +32,12 @@ catch (DomainException ex)
 {
     Console.WriteLine("Error: " + ex.Message);
 }
+catch (FormatException ex)
+{
+    Console.WriteLine("Format Error: " + ex);
+}
+catch(Exception ex)
+{
+    Console.WriteLine("Unexpected Error: " + ex);
+}
 
